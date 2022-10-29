@@ -1,0 +1,2 @@
+# TrinaryOparetor
+Created with CodeSandbox
